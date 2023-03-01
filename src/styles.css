@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
+
+*{
+  box-sizing: border-box;
+}
+
+html,button{
+  font-family: 'Quicksand';
+}
+
+body{
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
